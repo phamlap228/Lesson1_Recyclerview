@@ -3,6 +3,7 @@
 
 
 <body>
+    
     <h1>Privacy Policy</h1>
     Oleg Barinov built the Solves app as a Freemium app. This service is provided by Oleg
     Barinov at no cost and is intended for use as is.
